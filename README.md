@@ -18,7 +18,7 @@ Selamat datang di repository Tugas Project 1 untuk mata kuliah **Pemrograman Web
 
 ## 🔗 Referensi Paper Framework Laravel Google Scholar
 
-1. 📘 [Analisis dan Perancangan Aplikasi Fathforce Starter Kit Pro di PT. Inovasi Media MenggunakanFrameworkLaravel)](https://openjournal.unpam.ac.id/index.php/JTSI/article/view/35656/17623)  
+1. 📘 [Analisis dan Perancangan Aplikasi Fathforce Starter Kit Pro di PT. Inovasi Media MenggunakanFrameworkLaravel)](https://openjournal.unpam.ac.id/index.php/JTSI/article/view/35656)  
 
 2. 📗 [Rancang Bangun Sistem Informasi Afiliasi Penjualan Tiket Seminar berbasis Website menggunakan Framework Laravel](https://jtiik.ub.ac.id/index.php/jtiik/article/view/1466)  
 
