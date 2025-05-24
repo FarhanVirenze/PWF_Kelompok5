@@ -18,9 +18,9 @@ Selamat datang di repository Tugas Project 1 untuk mata kuliah **Pemrograman Web
 
 ## 🔗 Referensi Paper Framework Laravel Google Scholar
 
-1. 📘 [Pengembangan Aplikasi Sistem Informasi Akademik Berbasis Web Menggunakan Framework Laravel: Studi Kasus di SMK Assalam Depok)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nBeQZpQAAAAJ&citation_for_view=nBeQZpQAAAAJ:TQgYirikUcIC)  
+1. 📘 [Analisis dan Perancangan Aplikasi Fathforce Starter Kit Pro di PT. Inovasi Media MenggunakanFrameworkLaravel)](https://openjournal.unpam.ac.id/index.php/JTSI/article/view/35656/17623)  
 
-2. 📗 [Penerapan Framework Laravel Untuk Sistem Informasi raport Online Pada SDN Saruni 2 Pandeglang](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PENERAPAN+FRAMEWORK+LARAVEL+UNTUK+SISTEM+INFORMASI+RAPORT+ONLINE+PADA+SDN+SARUNI+2+PANDEGLANG&btnG=)  
+2. 📗 [Rancang Bangun Sistem Informasi Afiliasi Penjualan Tiket Seminar berbasis Website menggunakan Framework Laravel](https://jtiik.ub.ac.id/index.php/jtiik/article/view/1466)  
 
-3. 📙 [Penerapan Metode Extreme Programming menggunakan Framework Laravel dalam Pengembangan Sistem Informasi Khazaregsys](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Penerapan+Metode+Extreme+Programming+menggunakan+Framework+Laravel+dalam+Pengembangan+Sistem+Informasi+Khazaregsys&btnG=)  
+3. 📙 [Implementasi Framework Laravel Dalam Pembuatan Sistem Pencatatan Notula Berbasis Website](https://ejournal.undip.ac.id/index.php/jsinbis/article/view/45297)  
   
