@@ -1,4 +1,4 @@
-# 💻 PWF_Kelompok5 – Tugas Project 1
+# 💻 PWF_Kelompok5 – Tugas Project 1 - Kelas C
 
 Selamat datang di repository Tugas Project 1 untuk mata kuliah **Pemrograman Web Framework**. Proyek ini dikerjakan secara berkelompok dengan tujuan mengeksplorasi dan memahami penerapan teknologi web modern, termasuk Framework Laravel.
 
